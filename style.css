@@ -6,3 +6,13 @@ body {
   font-family: Arial, sans-serif;
 }
 
+.banner {
+  background: linear-gradient(to right,
+    black 0%,
+    black 35%,
+    #7a3db8 55%,   /* purple */
+    white 75%,
+    #f5d142 100%   /* yellow */
+  );
+  padding: 40px 20px;
+}
